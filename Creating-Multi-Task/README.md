@@ -18,6 +18,8 @@ The Block design of Zynq UltraScale+ MPSoC looks like,
 ## Tutorial Step 2: Creating the Vitis Project 
 For creating the Vitis Project, you need to have XSA from "Tutorial Step 1: Creating the VIVADO Project" or you can use the XSA which we have attached in this Repo: [Downlaod XSA for Ultra96v1 VIVADO 2019.2](https://github.com/LogicTronix/FreeRTOS-Development/blob/master/Creating-Multi-Task/VIVADO_2019_2_Project.xsa)
 
+[![Video Tutorial on "Creating Vitis Project"-YouTube](https://www.youtube.com/watch?v=45ohiE7Af3U)](https://www.youtube.com/watch?v=45ohiE7Af3U "Creating Vitis Project")
+
 
 
 ### Main Application of FreeRTOS multi-tasking implementation: [multi-tasks-freertos.c](https://github.com/LogicTronix/FreeRTOS-Development/blob/master/Creating-Multi-Task/multi-tasks-freertos.c)
